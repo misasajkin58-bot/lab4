@@ -7,4 +7,4 @@
 
 ### Условие активации реализовано выражением: (A % 3 == 0) && (B % 3 == 0) && (C % 3 == 0)
 
-### ![блок схема](Диаграмма без названия.drawio.png)
+### ![блок схема]([Диаграмма без названия.drawio.png](https://github.com/misasajkin58-bot/lab4/blob/master/lab4/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio.png))
